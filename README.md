@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my 1st
+this is my 1st git repository
+Author: Niladri Guha 
